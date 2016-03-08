@@ -15,4 +15,8 @@ public class division {
      resul=num1/num2; 
      return resul;
  }
+    private void hola(){
+    System.out.println("HOLA");    
+    }
+    
 }
