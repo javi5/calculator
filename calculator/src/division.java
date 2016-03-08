@@ -16,7 +16,8 @@ public class division {
      return resul;
  }
     private void hola(){
-    System.out.println("HOLA");    
+    System.out.println("HOLA"); 
+    System.out.println("ADIOS");
     }
     
 }
